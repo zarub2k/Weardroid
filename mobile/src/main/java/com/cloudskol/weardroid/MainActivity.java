@@ -3,6 +3,9 @@ package com.cloudskol.weardroid;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * Main entry point for our mobile application
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
