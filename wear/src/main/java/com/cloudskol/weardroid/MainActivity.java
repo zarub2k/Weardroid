@@ -5,6 +5,9 @@ import android.os.Bundle;
 import android.support.wearable.view.WatchViewStub;
 import android.widget.TextView;
 
+/**
+ * Main entry point for wear devices
+ */
 public class MainActivity extends Activity {
 
     private TextView mTextView;
