@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 /**
- * Main entry point for our mobile application
+ * Main entry point for the mobile application
  */
 public class MainActivity extends AppCompatActivity {
 
