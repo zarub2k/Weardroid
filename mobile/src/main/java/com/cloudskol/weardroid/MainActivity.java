@@ -8,6 +8,9 @@ import android.os.Bundle;
  *
  * http://stackoverflow.com/questions/25205888/pairing-android-and-wear-emulators
  * https://kennethmascarenhas.wordpress.com/2014/08/19/developing-for-android-wear-with-emulators/
+ *
+ * telnet localhost 5556
+ * redir add tcp:5601:5601
  */
 public class MainActivity extends AppCompatActivity {
 
