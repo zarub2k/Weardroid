@@ -27,7 +27,7 @@ public class MainActivity extends Activity {
 
             @Override
             public void onLayoutInflated(WatchViewStub stub) {
-                mTextView = (TextView) stub.findViewById(R.id.text); //value set
+                mTextView = (TextView) stub.findViewById(R.id.text);
             }
         });
     }
